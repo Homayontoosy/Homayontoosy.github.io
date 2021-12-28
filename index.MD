@@ -9,7 +9,7 @@ Semnan University
 Artificial Intelligence and Robotics
 Master's degree
 <br/>
-Toos Institute Higher Education 
+Toos Institute Higher Education of mashhad
 Computer Software Technology
 Bachelor's degree
 <br/>
