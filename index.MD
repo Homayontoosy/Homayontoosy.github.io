@@ -6,15 +6,24 @@ My main areas of interest are artificial intelligence (AI), evolutionary computi
 <br/>
 #Education History
 Semnan University
+
 Artificial Intelligence and Robotics
+
 Master's degree
-
+<br/>
 Toos Institute Higher Education 
+
 Computer Software Technology
+
 Bachelor's degree
-
+<br/>
 Islamic Azad University of Mashhad
-Computer Software Engineering
-Associate's degree
 
+Computer Software Engineering
+
+Associate's degree
+<br/>
+
+#Job Experience
+network technician
 
