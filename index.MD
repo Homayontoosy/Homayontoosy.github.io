@@ -4,26 +4,20 @@ I am a master student of artificial intelligence in the department of computer a
 My main areas of interest are artificial intelligence (AI), evolutionary computing, neural network, machine vision
 
 <br/>
-#Education History
+# Education History
 Semnan University
-
 Artificial Intelligence and Robotics
-
 Master's degree
 <br/>
 Toos Institute Higher Education 
-
 Computer Software Technology
-
 Bachelor's degree
 <br/>
 Islamic Azad University of Mashhad
-
 Computer Software Engineering
-
 Associate's degree
 <br/>
 
-#Job Experience
+# Job Experience
 network technician
 
