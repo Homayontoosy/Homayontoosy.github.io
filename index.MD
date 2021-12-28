@@ -20,12 +20,18 @@ Associate's degree
 
 # Job Experience
 network technician
+
 ccna
+
 mcitp
+
 Drive test telecommunication
 
 # Hobby
 film
+
 music
+
 Driving
+
 travel
